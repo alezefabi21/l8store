@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["join","nitr0shop"];
+const statusMessages = [".gg/l8store"];
 
 
 let currentIndex = 0;
